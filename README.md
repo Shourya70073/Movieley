@@ -1,6 +1,6 @@
 # Movieley
 
-#Movieley is an hub for information related to films, this app is been developed using dart and flutter.
+#Movieley is an hub for information related to films, this app has been developed using dart and flutter.
 
 #Home Screen of App
 
