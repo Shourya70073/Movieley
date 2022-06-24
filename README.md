@@ -1,16 +1,19 @@
-# movieele
+# Movieley
 
-A new Flutter project.
+#Movieley is an hub for information related to films, this app is been developed using dart and flutter.
 
-## Getting Started
+#Home Screen of App
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/71991617/175657876-e97863be-c637-414e-ab84-1f0c6b3d89bd.png)
 
-A few resources to get you started if this is your first Flutter project:
+#Result Page of Realted Movies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/71991617/175658009-019252a6-f9ff-45c0-ada6-e64a0ca0d701.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Movie Details Page
+
+![image](https://user-images.githubusercontent.com/71991617/175658096-f3eda47e-334a-4542-9dba-d62c7fdf70f3.png)
+
+#Actors List page
+
+![image](https://user-images.githubusercontent.com/71991617/175658181-c2a9c1b6-e6e0-42e0-9f45-12feea7eccb3.png)
